@@ -1,0 +1,2 @@
+test1,Win,Lose,test2
+awd,Win,Lose,awd
